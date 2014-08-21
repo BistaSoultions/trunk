@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+<!--        <record id="mudd_product" model="ir.ui.view">
+            <field name="name">mudd.product</field>
+            <field name="model">product.product</field>
+            <field name="inherit_id" ref="product.product_normal_form_view"/>
+            <field name="arch" type="xml">
+                <xpath expr="/form/sheet/notebook/page[@string='Accounting']" position = "after">
+                    <page string = "Variant">
+                        <group>
+                            <field name= "dimension_value_ids"> </field>
+                        </group>
+                    </page>
+                </xpath>
+            </field>
+        </record>-->
+    </data>
+</openerp>
